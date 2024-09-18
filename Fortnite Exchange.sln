@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29709.97
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fortnite Exchange", "Fortnite Exchange\Fortnite Exchange.csproj", "{0BBFBD67-D3D7-4302-97E4-A18616A72724}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fortnite Exchange", "Fortnite Exchange\Fortnite Exchange.csproj", "{5d5ae310-760b-11ef-8b2a-633688e7e671}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
